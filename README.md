@@ -1,4 +1,4 @@
-# Physiologically Based Pharmacokinetic Modeling of mRNA-Encoded Therapeutics: A Multiscale Framework Integrating LNP and Antibody Trafficking in Mice
+# Physiologically Based Pharmacokinetic Modeling of mRNA-Encoded Therapeutics: A Multiscale Framework for LNP and Antibody Trafficking in Mice
 
 
 **Authors:**  E. Campanile, E. Pettinà, S. Giampiccolo, L. Leonardelli, and L. Marchetti  
